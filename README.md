@@ -23,7 +23,9 @@ Membership function from delta error sensor--> Delta error value(de) = e - e_bef
 ![mf1](https://user-images.githubusercontent.com/67867879/180611916-fd99d3b9-7012-42b4-b482-3a0e60c07013.PNG)
 
 2. Inference
+
 Rule table:
+
 ![s](https://user-images.githubusercontent.com/67867879/180611950-d8a378b2-cc5b-4913-8e5b-c07fc8401262.PNG)
 
 3. Defuzzyfication --> Using sugeno method
